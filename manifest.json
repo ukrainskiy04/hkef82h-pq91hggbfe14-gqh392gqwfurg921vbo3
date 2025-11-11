@@ -21048,10 +21048,10 @@
         "size": 361155
     },
     {
-        "path": "mods/Metroville-Mod-1.0.0.jar",
-        "hash": "50d1e0550017d9257a4097d837af89d0ca943fbc",
-        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/Metroville-Mod-1.0.0.jar",
-        "size": 11241
+        "path": "mods/Metroville-Mod-1.0.3.jar",
+        "hash": "dcaeaa11bebc31cb4aef273b731187a85e457f4f",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/Metroville-Mod-1.0.3.jar",
+        "size": 11254
     },
     {
         "path": "versions/version_manifest_v2.json",
@@ -21076,17 +21076,5 @@
         "hash": "d1a543f2917ce6335c5d91724c3addc4ed008d7f",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/versions/1.19.2-forge-43.5.0/1.19.2-forge-43.5.0.json",
         "size": 18052
-    },
-    {
-        "path": "versions/1.21.10/1.21.10.json",
-        "hash": "b2749223332f0664fd332483847f17be8b93ab68",
-        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/versions/1.21.10/1.21.10.json",
-        "size": 44432
-    },
-    {
-        "path": "versions/25w44a/25w44a.json",
-        "hash": "eec78103f710b67908bd6f2f366cd9fd0bab1fed",
-        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/versions/25w44a/25w44a.json",
-        "size": 42172
     }
 ]
