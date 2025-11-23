@@ -24102,10 +24102,22 @@
         "size": 361155
     },
     {
+        "path": "mods/AmbientSounds_FORGE_v6.1.11_mc1.20.1.jar",
+        "hash": "af412170c07febfb5c611b7237d806230dc83584",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/AmbientSounds_FORGE_v6.1.11_mc1.20.1.jar",
+        "size": 51722248
+    },
+    {
         "path": "mods/CameraOverhaul-v2.0.4-forge+mc[1.20.0-1.20.5].jar",
         "hash": "3f88c230fec4a78c7b8fba42b6d01d3a2af0bfe8",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/CameraOverhaul-v2.0.4-forge+mc[1.20.0-1.20.5].jar",
         "size": 139336
+    },
+    {
+        "path": "mods/chat_heads-0.14.2-forge-1.20.jar",
+        "hash": "0410ab9636c69324e3671012af64c7743f6d6079",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/chat_heads-0.14.2-forge-1.20.jar",
+        "size": 718678
     },
     {
         "path": "mods/cloth-config-11.1.136-forge.jar",
@@ -24126,6 +24138,18 @@
         "size": 1320675
     },
     {
+        "path": "mods/entity_model_features_1.20.1-forge-3.0.6.jar",
+        "hash": "f5050c01599cde4cf5f04748dde7026117f811af",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/entity_model_features_1.20.1-forge-3.0.6.jar",
+        "size": 658753
+    },
+    {
+        "path": "mods/entity_texture_features_1.20.1-forge-7.0.6.jar",
+        "hash": "756a6ed1a8ef46ae664d8a1fdaf50c9a7b4030fa",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/entity_texture_features_1.20.1-forge-7.0.6.jar",
+        "size": 951154
+    },
+    {
         "path": "mods/fallingleaves-1.20.1-2.1.2.jar",
         "hash": "b890536f44a5c0a49f2b1f4af91c17d948b4ef4d",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/fallingleaves-1.20.1-2.1.2.jar",
@@ -24138,10 +24162,28 @@
         "size": 1784179
     },
     {
+        "path": "mods/Geophilic v3.4.4 f15-88.mod.jar",
+        "hash": "744c89e81b2312edfd842253a5b5980b0a011ebd",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/Geophilic v3.4.4 f15-88.mod.jar",
+        "size": 713996
+    },
+    {
         "path": "mods/InventivetalentDev minecraft-assets 1.20.2 assets-minecraft_textures.zip",
         "hash": "ac8be986278010dbd6ff9933bc810c191e24da1d",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/InventivetalentDev minecraft-assets 1.20.2 assets-minecraft_textures.zip",
         "size": 4841416
+    },
+    {
+        "path": "mods/LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+        "hash": "7d83a56572d333ea352706872f565b8b8537085c",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+        "size": 55258
+    },
+    {
+        "path": "mods/Nostalgia_v5.1.zip",
+        "hash": "c93900007773ce0314539461e26aa8faadf4aec9",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/Nostalgia_v5.1.zip",
+        "size": 1842205
     },
     {
         "path": "mods/notenoughanimations-forge-1.10.6-mc1.20.1.jar",
@@ -24156,6 +24198,18 @@
         "size": 2851119
     },
     {
+        "path": "mods/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+        "hash": "6ccb76043763f929a11f1857a57b41bb70ab7512",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+        "size": 7080698
+    },
+    {
+        "path": "mods/SereneSeasons-forge-1.20.1-9.1.0.2.jar",
+        "hash": "706d3eaf79ce5b33a30f3ad1aaa88a2a4483abf6",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/SereneSeasons-forge-1.20.1-9.1.0.2.jar",
+        "size": 160887
+    },
+    {
         "path": "mods/ShoulderSurfing-Forge-1.20.1-4.16.0.jar",
         "hash": "845ce7b7a62749d8fef35afa8b01fa9bab2ace67",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/ShoulderSurfing-Forge-1.20.1-4.16.0.jar",
@@ -24166,6 +24220,24 @@
         "hash": "1773a7e126224334a3aaafaa42a02eddfce4ad3b",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/skinlayers3d-forge-1.9.2-mc1.20.1.jar",
         "size": 1060427
+    },
+    {
+        "path": "mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar",
+        "hash": "629e987b2a0c9342a31dfdef67590f228d949c34",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar",
+        "size": 203819
+    },
+    {
+        "path": "mods/tectonic-3.0.17-forge-1.20.1.jar",
+        "hash": "07bfe13bc1bd75a6277f3d62bf92a549b33067a9",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/tectonic-3.0.17-forge-1.20.1.jar",
+        "size": 322575
+    },
+    {
+        "path": "resourcepacks/FreshAnimations_v1.10.2.zip",
+        "hash": "227c783561a2e621bf66df63c63c2d166b0f77c9",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/resourcepacks/FreshAnimations_v1.10.2.zip",
+        "size": 834417
     },
     {
         "path": "versions/version_manifest_v2.json",
