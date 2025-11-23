@@ -24126,6 +24126,12 @@
         "size": 1181413
     },
     {
+        "path": "mods/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
+        "hash": "d49e8c29748677d0a530432f1c1bda4e9865da00",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
+        "size": 1158417
+    },
+    {
         "path": "mods/eating-animation-1.20+1.9.61.jar",
         "hash": "d5a8909b0b864eb1a7a2d62368932d264eb60317",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/eating-animation-1.20+1.9.61.jar",
@@ -24168,6 +24174,18 @@
         "size": 713996
     },
     {
+        "path": "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+        "hash": "1a0aaf7c33b9acb26bf75899a43e8941cac1f6e7",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+        "size": 87550
+    },
+    {
+        "path": "mods/Iceberg-1.20.1-forge-1.1.25.jar",
+        "hash": "d551ff55814cfb01403b812459ee5a02b020d87b",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/Iceberg-1.20.1-forge-1.1.25.jar",
+        "size": 134551
+    },
+    {
         "path": "mods/InventivetalentDev minecraft-assets 1.20.2 assets-minecraft_textures.zip",
         "hash": "ac8be986278010dbd6ff9933bc810c191e24da1d",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/InventivetalentDev minecraft-assets 1.20.2 assets-minecraft_textures.zip",
@@ -24178,6 +24196,12 @@
         "hash": "7d83a56572d333ea352706872f565b8b8537085c",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/LegendaryTooltips-1.20.1-forge-1.4.5.jar",
         "size": 55258
+    },
+    {
+        "path": "mods/lithostitched-forge-1.20.1-1.4.11.jar",
+        "hash": "d1a755de84ee5d8910ff1e65e815473056e93ece",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/lithostitched-forge-1.20.1-1.4.11.jar",
+        "size": 476347
     },
     {
         "path": "mods/Nostalgia_v5.1.zip",
@@ -24202,6 +24226,12 @@
         "hash": "6ccb76043763f929a11f1857a57b41bb70ab7512",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
         "size": 7080698
+    },
+    {
+        "path": "mods/Prism-1.20.1-forge-1.0.5.jar",
+        "hash": "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/Prism-1.20.1-forge-1.0.5.jar",
+        "size": 52205
     },
     {
         "path": "mods/SereneSeasons-forge-1.20.1-9.1.0.2.jar",
