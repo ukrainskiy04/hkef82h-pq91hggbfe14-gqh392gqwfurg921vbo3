@@ -24390,10 +24390,40 @@
         "size": 476347
     },
     {
+        "path": "mods/Mekanism-1.20.1-10.4.16.80.jar",
+        "hash": "b7f12ae710888b01746507a0aa8cb375f5897158",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/Mekanism-1.20.1-10.4.16.80.jar",
+        "size": 12558456
+    },
+    {
+        "path": "mods/MekanismAdditions-1.20.1-10.4.16.80.jar",
+        "hash": "64e930adf31b23db53412a62b0e8f950e64f7f2d",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/MekanismAdditions-1.20.1-10.4.16.80.jar",
+        "size": 1136805
+    },
+    {
+        "path": "mods/MekanismGenerators-1.20.1-10.4.16.80.jar",
+        "hash": "53fa707fd204ca1dd099a08995c2197145ff9a36",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/MekanismGenerators-1.20.1-10.4.16.80.jar",
+        "size": 1054586
+    },
+    {
+        "path": "mods/MekanismTools-1.20.1-10.4.16.80.jar",
+        "hash": "0d22b1cc01a33702f1b9e17b26cc55e233a4e7ff",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/MekanismTools-1.20.1-10.4.16.80.jar",
+        "size": 517999
+    },
+    {
         "path": "mods/Metroville-Mod-4-2.3.jar",
         "hash": "e74212fc6c3cd52601b476e210319920e9304c08",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/Metroville-Mod-4-2.3.jar",
         "size": 23369
+    },
+    {
+        "path": "mods/metroville.energy-1.jar",
+        "hash": "1a18ef10ca5342765f12032b47ecd8ed86221797",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/metroville.energy-1.jar",
+        "size": 68191
     },
     {
         "path": "mods/natures_spirit-2.2.5-1.20.1.jar",
