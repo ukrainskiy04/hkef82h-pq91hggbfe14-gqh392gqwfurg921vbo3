@@ -24420,6 +24420,12 @@
         "size": 23369
     },
     {
+        "path": "mods/MTR-forge-4.0.2-hotfix-1+1.20.1.jar",
+        "hash": "0e4e332c037ca8ca1f21353375c10b737106f720",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/MTR-forge-4.0.2-hotfix-1+1.20.1.jar",
+        "size": 80403610
+    },
+    {
         "path": "mods/natures_spirit-2.2.5-1.20.1.jar",
         "hash": "edd4d2ea52eed1ff90b412f10eb29f5e4650c147",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/natures_spirit-2.2.5-1.20.1.jar",
@@ -24508,6 +24514,12 @@
         "hash": "79e1409b8db4ce86df9d6d6730f09c4bd8860a30",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/Terralith_1.20.x_v2.5.4.jar",
         "size": 3156901
+    },
+    {
+        "path": "mods/worldedit-mod-7.2.15 (1).jar",
+        "hash": "9c52765ca56f917ef8cbafc20e9a4f45c346508f",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/worldedit-mod-7.2.15 (1).jar",
+        "size": 5825402
     },
     {
         "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
