@@ -23088,12 +23088,6 @@
         "size": 2448
     },
     {
-        "path": "config/oculus.properties",
-        "hash": "2ccc3194e3df6f7f25eb2ce00a05d455eaa3eec6",
-        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/config/oculus.properties",
-        "size": 272
-    },
-    {
         "path": "config/shouldersurfing-client.toml",
         "hash": "5fcc10c26763ef10bb9195974de18b462fa272ae",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/config/shouldersurfing-client.toml",
@@ -24288,6 +24282,12 @@
         "size": 51722248
     },
     {
+        "path": "mods/bettercombat-forge-1.8.6+1.20.1.jar",
+        "hash": "70c20cd81a4051b2ad4289ff6522e80b397d7b3d",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/bettercombat-forge-1.8.6+1.20.1.jar",
+        "size": 1050118
+    },
+    {
         "path": "mods/CameraOverhaul-v2.0.4-forge+mc[1.20.0-1.20.5].jar",
         "hash": "3f88c230fec4a78c7b8fba42b6d01d3a2af0bfe8",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/CameraOverhaul-v2.0.4-forge+mc[1.20.0-1.20.5].jar",
@@ -24310,12 +24310,6 @@
         "hash": "d49e8c29748677d0a530432f1c1bda4e9865da00",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
         "size": 1158417
-    },
-    {
-        "path": "mods/DistantHorizons-2.3.6-b-1.20.1-fabric-forge.jar",
-        "hash": "89fd2d00de842579e41efa9fe6a87f67dd99a113",
-        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/DistantHorizons-2.3.6-b-1.20.1-fabric-forge.jar",
-        "size": 25362721
     },
     {
         "path": "mods/eating-animation-1.20+1.9.61.jar",
@@ -24421,9 +24415,9 @@
     },
     {
         "path": "mods/metroville.energy-1.jar",
-        "hash": "b30fbc32482d2c7c9d5e6b315a30f2c354e2a76f",
+        "hash": "43c0b2e5687bf5f8d903a3d45e70f46dd266cd85",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/metroville.energy-1.jar",
-        "size": 69247
+        "size": 76501
     },
     {
         "path": "mods/natures_spirit-2.2.5-1.20.1.jar",
@@ -24486,6 +24480,12 @@
         "size": 2139266
     },
     {
+        "path": "mods/tacz-1.20.1-1.1.6-hotfix.jar",
+        "hash": "e951d81b5f452bcad47c20d5b491fd26f8de8ce2",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/tacz-1.20.1-1.1.6-hotfix.jar",
+        "size": 47826468
+    },
+    {
         "path": "mods/tectonic-3.0.17-forge-1.20.1.jar",
         "hash": "07bfe13bc1bd75a6277f3d62bf92a549b33067a9",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/tectonic-3.0.17-forge-1.20.1.jar",
@@ -24502,6 +24502,12 @@
         "hash": "79e1409b8db4ce86df9d6d6730f09c4bd8860a30",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/Terralith_1.20.x_v2.5.4.jar",
         "size": 3156901
+    },
+    {
+        "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+        "hash": "7049cc12935ff4be20173c908ad946f530861a4c",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+        "size": 321871
     },
     {
         "path": "resourcepacks/FreshAnimations_v1.10.2.zip",
