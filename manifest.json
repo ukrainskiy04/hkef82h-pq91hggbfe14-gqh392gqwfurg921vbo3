@@ -22992,12 +22992,6 @@
         "size": 4083
     },
     {
-        "path": "config/cameraoverhaul.toml",
-        "hash": "89d07ee9f0f96c536c47861afa7717ae0b8e1f03",
-        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/config/cameraoverhaul.toml",
-        "size": 8535
-    },
-    {
         "path": "config/chat_heads.json5",
         "hash": "3356b427c3a090b96f84496cba19abda191b3b02",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/config/chat_heads.json5",
@@ -23022,12 +23016,6 @@
         "size": 269
     },
     {
-        "path": "config/embeddium-options.json",
-        "hash": "4ec3524aaec5524104991ab9932479d56e0a6bb3",
-        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/config/embeddium-options.json",
-        "size": 847
-    },
-    {
         "path": "config/entity_model_features.json",
         "hash": "ea34b823d12360af472d45508bea0c432522df75",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/config/entity_model_features.json",
@@ -23050,12 +23038,6 @@
         "hash": "4c66b6df2031c4c57a554d7f126eccaa96517169",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/config/fallingleaves-client.toml",
         "size": 796
-    },
-    {
-        "path": "config/firstperson.json",
-        "hash": "55267bb6ab68f555c50522997ff88d3dae99df15",
-        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/config/firstperson.json",
-        "size": 593
     },
     {
         "path": "config/fml.toml",
@@ -23086,12 +23068,6 @@
         "hash": "badc3ad414bef0dbe5dbdfd10f944933f4cf50be",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/config/notenoughanimations.json",
         "size": 2448
-    },
-    {
-        "path": "config/shouldersurfing-client.toml",
-        "hash": "5fcc10c26763ef10bb9195974de18b462fa272ae",
-        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/config/shouldersurfing-client.toml",
-        "size": 16395
     },
     {
         "path": "config/skinlayers.json",
@@ -23134,30 +23110,6 @@
         "hash": "fdd80a771c6bda92cadb9275e4923c659cf7c1c0",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/config/sereneseasons/seasons.toml",
         "size": 6778
-    },
-    {
-        "path": "config/sound_physics_remastered/allowed_sounds.properties",
-        "hash": "76647a497653384de733c5a5db1b6f0ee9d3aa5d",
-        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/config/sound_physics_remastered/allowed_sounds.properties",
-        "size": 60193
-    },
-    {
-        "path": "config/sound_physics_remastered/occlusion.properties",
-        "hash": "63e8843f243c38bc7aa44d99ce4f562991890350",
-        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/config/sound_physics_remastered/occlusion.properties",
-        "size": 4831
-    },
-    {
-        "path": "config/sound_physics_remastered/reflectivity.properties",
-        "hash": "95feb43eb67757038518212b08739cb39bb9763e",
-        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/config/sound_physics_remastered/reflectivity.properties",
-        "size": 4713
-    },
-    {
-        "path": "config/sound_physics_remastered/soundphysics.properties",
-        "hash": "8c28f59d92aacab3d3c3c541326039166fad00b7",
-        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/config/sound_physics_remastered/soundphysics.properties",
-        "size": 5105
     },
     {
         "path": "libraries/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar",
@@ -24414,24 +24366,6 @@
         "size": 95125
     },
     {
-        "path": "mods/Metroville-Mod-4-2.3.jar",
-        "hash": "e74212fc6c3cd52601b476e210319920e9304c08",
-        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/Metroville-Mod-4-2.3.jar",
-        "size": 23369
-    },
-    {
-        "path": "mods/MSD-forge-1.20.1-4.0.2-1.4.2.jar",
-        "hash": "d549f6d6dc724e4f32ff729465b57d83ff629146",
-        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/MSD-forge-1.20.1-4.0.2-1.4.2.jar",
-        "size": 7991413
-    },
-    {
-        "path": "mods/MTR-forge-4.0.2-hotfix-1+1.20.1.jar",
-        "hash": "0e4e332c037ca8ca1f21353375c10b737106f720",
-        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/MTR-forge-4.0.2-hotfix-1+1.20.1.jar",
-        "size": 80403610
-    },
-    {
         "path": "mods/natures_spirit-2.2.5-1.20.1.jar",
         "hash": "edd4d2ea52eed1ff90b412f10eb29f5e4650c147",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/natures_spirit-2.2.5-1.20.1.jar",
@@ -24546,10 +24480,28 @@
         "size": 2139266
     },
     {
+        "path": "shaderpacks/MakeUp-UltraFast-9.3e.zip",
+        "hash": "8084ea0bd65c07d21b0e71c0f0f3c7fa53ea54de",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/shaderpacks/MakeUp-UltraFast-9.3e.zip",
+        "size": 395165
+    },
+    {
+        "path": "shaderpacks/MakeUp-UltraFast-9.3e.zip.txt",
+        "hash": "482156abc5fff8e3bd60ad1422d5c422761ffc1b",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/shaderpacks/MakeUp-UltraFast-9.3e.zip.txt",
+        "size": 107
+    },
+    {
         "path": "shaderpacks/Nostalgia_v5.1.zip",
         "hash": "c93900007773ce0314539461e26aa8faadf4aec9",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/shaderpacks/Nostalgia_v5.1.zip",
         "size": 1842205
+    },
+    {
+        "path": "shaderpacks/Nostalgia_v5.1.zip.txt",
+        "hash": "c8600ee44a25825b626bd8470bc64352dbfd4ae4",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/shaderpacks/Nostalgia_v5.1.zip.txt",
+        "size": 56
     },
     {
         "path": "versions/version_manifest_v2.json",
