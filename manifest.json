@@ -24264,6 +24264,12 @@
         "size": 1158417
     },
     {
+        "path": "mods/dawnoftimebuilder-forge-1.20.1-1.5.45.jar",
+        "hash": "d69e2d333304cc840958e8b3994ce10119f287cd",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/dawnoftimebuilder-forge-1.20.1-1.5.45.jar",
+        "size": 3161708
+    },
+    {
         "path": "mods/decocraft-3.0.4-1.20.1-slim.jar",
         "hash": "5e98ca7929590361bee24c64a0c140447e67ea78",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/decocraft-3.0.4-1.20.1-slim.jar",
@@ -24306,6 +24312,12 @@
         "size": 1784179
     },
     {
+        "path": "mods/framework-forge-1.20.1-0.8.0.jar",
+        "hash": "27347879f8760a7bc0b4bd71977abc50e498811c",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/framework-forge-1.20.1-0.8.0.jar",
+        "size": 383868
+    },
+    {
         "path": "mods/Geophilic v3.4.4 f15-88.mod.jar",
         "hash": "744c89e81b2312edfd842253a5b5980b0a011ebd",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/Geophilic v3.4.4 f15-88.mod.jar",
@@ -24340,6 +24352,12 @@
         "hash": "d1a755de84ee5d8910ff1e65e815473056e93ece",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/lithostitched-forge-1.20.1-1.4.11.jar",
         "size": 476347
+    },
+    {
+        "path": "mods/ManyIdeasDoors-1.20.1-1.2.3.zip",
+        "hash": "ad69dbc86365bc631c2550d78c8f42e5f8ba295a",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/ManyIdeasDoors-1.20.1-1.2.3.zip",
+        "size": 3254178
     },
     {
         "path": "mods/Mekanism-1.20.1-10.4.16.80.jar",
@@ -24424,6 +24442,12 @@
         "hash": "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/Prism-1.20.1-forge-1.0.5.jar",
         "size": 52205
+    },
+    {
+        "path": "mods/refurbished_furniture-forge-1.20.1-1.0.20.jar",
+        "hash": "ffb68135b88bdbb25224378c76daf922c3f4c322",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/mods/refurbished_furniture-forge-1.20.1-1.0.20.jar",
+        "size": 6689588
     },
     {
         "path": "mods/routemod-1.5.0-forge-1.20.1.jar",
