@@ -24522,10 +24522,28 @@
         "size": 321871
     },
     {
+        "path": "resourcepacks/alfa_pendular_mtr4.zip",
+        "hash": "06fa193dd00f5fad966a7182d4caaa10258dae80",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/resourcepacks/alfa_pendular_mtr4.zip",
+        "size": 1572705
+    },
+    {
+        "path": "resourcepacks/DB train pack v1.0 beta.zip",
+        "hash": "d2e8de155256f03c39dcaeb46ea551412695e48a",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/resourcepacks/DB train pack v1.0 beta.zip",
+        "size": 104250010
+    },
+    {
         "path": "resourcepacks/FreshAnimations_v1.10.2.zip",
         "hash": "227c783561a2e621bf66df63c63c2d166b0f77c9",
         "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/resourcepacks/FreshAnimations_v1.10.2.zip",
         "size": 834417
+    },
+    {
+        "path": "resourcepacks/NS DDM DD-AR DDZ.zip",
+        "hash": "3089012fd818a5e7e485e7d580456af3e0edccf7",
+        "url": "https://raw.githubusercontent.com/ukrainskiy04/hkef82h-pq91hggbfe14-gqh392gqwfurg921vbo3/main/resourcepacks/NS DDM DD-AR DDZ.zip",
+        "size": 26483167
     },
     {
         "path": "resourcepacks/Stay_True_1.20.zip",
